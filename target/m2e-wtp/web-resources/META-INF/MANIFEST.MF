@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Guest
+Implementation-Vendor-Id: com.exemple
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
